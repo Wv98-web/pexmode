@@ -47,7 +47,7 @@
             "show_qty": true,
             "btn_atc_full": true,
             "enable_payment_btn": true,
-            "page": "sale-coupon",
+            "page": "discount-page",
             "bg": "#ffffff",
             "bdr": 15
           }

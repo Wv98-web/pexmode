@@ -2,7 +2,6 @@
   "sections": {
     "heading": {
       "type": "pages_heading",
-      "disabled": true,
       "blocks": {
         "89b1a94e-2cf5-4075-a6af-0969fbaeae2d": {
           "type": "1",
