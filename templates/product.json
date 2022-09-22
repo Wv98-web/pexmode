@@ -1,0 +1,251 @@
+{
+  "wrapper": "div.mb__60",
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "size": 14
+          }
+        },
+        "pricereview": {
+          "type": "pricereview",
+          "settings": {
+            "price": "0",
+            "txt_sale": "0",
+            "rating": false,
+            "review_liquid": ""
+          }
+        },
+        "size": {
+          "type": "size",
+          "settings": {
+            "size_chart": "2",
+            "pos_sizeg": "2",
+            "sc_type": "1",
+            "page": "size-guide",
+            "size_ck": "",
+            "delivery": false,
+            "page_dr": "return-refund-policy",
+            "ask": false
+          }
+        },
+        "frm": {
+          "type": "frm",
+          "settings": {
+            "heading": "Product Form",
+            "ani": "none",
+            "time": 6,
+            "btn_des": "2",
+            "btn_txt": "3",
+            "swatch_design": "2",
+            "style_color": "1",
+            "swatch_style": "1",
+            "swatch_size": "large",
+            "show_qty": true,
+            "btn_atc_full": true,
+            "enable_payment_btn": true,
+            "page": "sale-coupon",
+            "bg": "#ffffff",
+            "bdr": 15
+          }
+        },
+        "social": {
+          "type": "social",
+          "settings": {
+            "class": "tdf"
+          }
+        },
+        "b5107412-932e-488d-b774-bef41056ac3f": {
+          "type": "meta",
+          "settings": {
+            "show_pr_vendor": false,
+            "show_sku": true,
+            "show_barcode": false,
+            "show_available": false,
+            "show_category_product": false,
+            "show_tag_product": false
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "pricereview",
+        "size",
+        "frm",
+        "social",
+        "b5107412-932e-488d-b774-bef41056ac3f"
+      ],
+      "settings": {
+        "pr_layout": "default",
+        "design_products": "4",
+        "size_img_pr": "3",
+        "nav_img_pr": "large",
+        "use_sticky_des": true,
+        "ratio_img_main": "ratio_img1",
+        "img_size_main": "nt_cover",
+        "img_pos_main": "8",
+        "ratio_img_thumb": "ratio_img1",
+        "img_size_thumb": "nt_cover",
+        "img_pos_thumb": "8",
+        "pr_sidebar": "none",
+        "pr_size_sidebar": "2",
+        "breadcrumb_pr": true,
+        "back_next_pr": true,
+        "auto": true
+      }
+    },
+    "product-description": {
+      "type": "pr_description2",
+      "blocks": {
+        "des": {
+          "type": "des",
+          "settings": {
+            "title": "Clothes Details"
+          }
+        },
+        "97bf541d-7825-4b7e-9509-ac8a192247d2": {
+          "type": "html",
+          "settings": {
+            "title": "Shipping & Tracking",
+            "page": "shipping-tracking"
+          }
+        },
+        "rivui": {
+          "type": "rivui",
+          "settings": {
+            "title": "Reviews",
+            "review_liquid": ""
+          }
+        },
+        "667e6875-929e-4e2e-aaa4-48367b7a33c7": {
+          "type": "material",
+          "settings": {
+            "title": "Description",
+            "show_bd": false,
+            "bdr": 6,
+            "bg": "",
+            "show_pr_vendor": true,
+            "show_sku": true,
+            "show_barcode": false,
+            "show_available": true,
+            "show_category_product": true,
+            "show_tag_product": true
+          }
+        }
+      },
+      "block_order": [
+        "des",
+        "97bf541d-7825-4b7e-9509-ac8a192247d2",
+        "rivui",
+        "667e6875-929e-4e2e-aaa4-48367b7a33c7"
+      ],
+      "settings": {
+        "des_pr_design": "1",
+        "show": true,
+        "bgcl": "#ffffff",
+        "bgclmb": "#ffffff",
+        "des_w": "1",
+        "des_mb": "2",
+        "auto": false,
+        "mg": "30px,,30px,",
+        "mg_mb": "0,,0,"
+      }
+    },
+    "product-recommendations2": {
+      "type": "product-recommendations2",
+      "settings": {
+        "show": true,
+        "title": "You May Also Like",
+        "sub_title": "",
+        "sub_font": "2",
+        "style_title": "title_1",
+        "ic_tt": "gem",
+        "show_clpr": false,
+        "display_effect": "0",
+        "display_type": "3",
+        "limit": 8,
+        "space": 20,
+        "col_pr": "3",
+        "col_pr_tb": "3",
+        "col_pr_mb": "6",
+        "pr_des": "1",
+        "show_vendor": false,
+        "use_cdt": false,
+        "round_cd": false,
+        "cdt_des": "1",
+        "collection": "all-products",
+        "use_pagination": "view-all",
+        "btn_rd": false,
+        "btn_icon": false,
+        "btn_style": "shadow",
+        "loop": false,
+        "au_time": 0,
+        "au_hover": true,
+        "button": true,
+        "btn_vi": "2",
+        "btn_owl": "2",
+        "btn_color": "3",
+        "dot": true,
+        "dot_owl": "2",
+        "dot_color": "3",
+        "use_eq_height": true,
+        "image_ratio": "ratio_nt",
+        "image_size": "nt_cover",
+        "image_position": "8"
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently_viewed2",
+      "settings": {
+        "show": true,
+        "unavailable_prs": "show",
+        "title": "Recently viewed products",
+        "sub_title": "",
+        "sub_font": "2",
+        "style_title": "title_1",
+        "ic_tt": "gem",
+        "show_clpr": false,
+        "display_effect": "0",
+        "limit": 8,
+        "sortby": "3",
+        "space": 20,
+        "col_pr": "3",
+        "col_pr_tb": "3",
+        "col_pr_mb": "6",
+        "pr_des": "1",
+        "show_vendor": false,
+        "use_cdt": false,
+        "round_cd": false,
+        "cdt_des": "1",
+        "collection": "",
+        "use_pagination": "none",
+        "btn_rd": true,
+        "btn_icon": false,
+        "btn_style": "default",
+        "loop": true,
+        "au_time": 0,
+        "au_hover": true,
+        "button": false,
+        "btn_vi": "1",
+        "btn_owl": "1",
+        "btn_color": "0",
+        "dot": true,
+        "dot_owl": "1",
+        "dot_color": "2",
+        "use_eq_height": true,
+        "image_ratio": "ratio_nt",
+        "image_size": "nt_cover",
+        "image_position": "8"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-description",
+    "product-recommendations2",
+    "recently-viewed-products"
+  ]
+}

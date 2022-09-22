@@ -1,0 +1,16 @@
+{
+  "sections": {
+    "blank": {
+      "type": "blank",
+      "settings": {}
+    },
+    "16545030141b74d388": {
+      "type": "apps",
+      "settings": {}
+    }
+  },
+  "order": [
+    "blank",
+    "16545030141b74d388"
+  ]
+}
